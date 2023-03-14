@@ -1,0 +1,1 @@
+print("Tre Tigri Contro Tre Tigri")
