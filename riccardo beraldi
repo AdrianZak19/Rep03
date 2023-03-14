@@ -1,0 +1,2 @@
+msgR = "sono riccardo beraldi"
+print(msgR)
