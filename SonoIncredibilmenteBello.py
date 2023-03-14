@@ -1,0 +1,1 @@
+print("sono pure inteligente wow.")
