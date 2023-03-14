@@ -1,1 +1,1 @@
-print("Edoardo ha modificato questo file")
+print("stupida, stupido")
